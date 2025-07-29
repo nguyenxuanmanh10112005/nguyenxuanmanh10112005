@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on open-source project
 - 📫 How to reach me: [Email](nguyenxuanmanh918@gmail.com)
-- 😄 Pronouns: he/him
+- 😄 Pronouns: ManhNX
 - ⚡ Fun fact: I love solving math puzzles and building automation scripts!
